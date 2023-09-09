@@ -22,7 +22,9 @@ body {
   width: 100vw;
   position: relative;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 .background1 {
   background-color: black;
   height: 10px;
